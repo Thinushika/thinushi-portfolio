@@ -1,0 +1,19 @@
+.navbar_container{
+    width: 25vw;
+    height: 100vh;
+    background-color: #222;
+}
+.name{
+    color: gold;
+}
+.nav_list_style{
+    list-style: none;
+}
+.nav_list_style li a{
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+}
+.nav_list_style li a:hover, .nav_list_style li a:focus, .nav_list_style li a:active{
+    color: gold;
+}
