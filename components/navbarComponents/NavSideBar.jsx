@@ -12,19 +12,19 @@ const NavSideBar = () => {
         <div className="nav-list">
           <ul className={navbar_style.nav_list_style}>
             <li>
-              <a href="#"><AiOutlineArrowRight/>Home</a>
+              <a href="/"><AiOutlineArrowRight/>Home</a>
             </li>
             <li>
               <a href="#">About me</a>
             </li>
             <li>
-              <a href="#">Projects</a>
+              <a href="/projects">Projects</a>
             </li>
             <li>
               <a href="#">Resume</a>
             </li>
             <li>
-              <a href="#">Contact</a>
+              <a href="/contact">Contact</a>
             </li>
           </ul>
         </div>
